@@ -49,3 +49,5 @@ while [ -n "$1" ]; do
 done
 
 echo $message"!"
+
+07usuarioconectado.sh $#

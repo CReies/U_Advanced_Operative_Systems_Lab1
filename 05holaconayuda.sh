@@ -40,5 +40,3 @@ while [ -n "$1" ]; do
 done
 
 echo $message"!"
-
-exit 0
